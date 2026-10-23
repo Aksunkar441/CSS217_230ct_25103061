@@ -1,0 +1,7 @@
+Student ID: 25103061
+
+--- ModernConsole Call ---
+[25103061] This is a message from the modern system.
+
+--- LegacyPrinter Call ---
+[25103061] This is a message from the legacy system.
