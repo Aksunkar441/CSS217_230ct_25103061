@@ -21,7 +21,7 @@ public class PaymentAdapter implements PaymentProcessor {
         int cents = (int) Math.round(amountInDollars * 100.0);
         gateway.chargeInCents(cents, customerId);
     }
-    // нет запушить как отдельной папкой внутри должны лежить джава файл и таск 1 аутпкт
+
 
     public static void main(String[] args) {
         String studentId = "250103061";
