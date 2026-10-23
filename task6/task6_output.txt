@@ -1,0 +1,8 @@
+Student ID: 25103061
+
+--- Testing Valid Key ---
+Success: jdbc:postgresql://localhost:5432/mydb
+
+--- Testing Failing Key ---
+Caught ConfigNotFoundException: Failed to read config key: sql.error
+Underlying cause name: SQLException
