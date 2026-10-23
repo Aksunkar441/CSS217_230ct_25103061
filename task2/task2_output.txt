@@ -1,0 +1,4 @@
+Student ID: 25103061
+Class Adapter Celsius:  37.0
+Object Adapter Celsius: 37.0
+Are they identical? true
