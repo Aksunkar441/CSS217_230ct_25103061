@@ -1,0 +1,2 @@
+Student ID: 25103061
+Parsed UserProfile: UserProfile[studentId=25103061, email=user@college.edu, accessLevel=4]
